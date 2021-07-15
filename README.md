@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narendiran</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Deep Learning Enthusiast</h3>
+<h1 align="center">Hi, I'm Narendiran<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h4 align="center">I'm a Computer Science Student pursuing my B.Tech from PES University, India. A self-taught, passionate software developer interested in the field of App Development, Cloud Computing and Machine Learning.</h3>
 
 <!-- 
 ## 🙋‍♂️ About Me
@@ -42,6 +42,13 @@
 [![GitHub Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#) [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#) [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) 
 <br/>
 
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/narendiran-arthanarieswaran-8873351a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href = "mailto:narendiran.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</p>
+
 ## 📊 My Github Stats
   <br/>
     <a href="https://github-readme-stats.vercel.app/api?username=naren951&show_icons=true&theme=dracula"><img alt="Narendiran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naren951&show_icons=true&theme=dracula" /></a>
@@ -56,13 +63,6 @@
 <a href="https://github.com/naren951/github-readme-activity-graph"><img alt="Narendiran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=naren951&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/narendiran-arthanarieswaran-8873351a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href = "narendiran.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
